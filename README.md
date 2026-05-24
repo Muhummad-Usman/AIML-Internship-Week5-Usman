@@ -60,6 +60,7 @@ Random Forest performed best due to its ability to capture nonlinear relationshi
 ---
 
 ## 📁 Repository Structure
+```text
 AIML-Internship-Week5-UsmanAsif/
 │
 ├── Week5_Final_Notebook.ipynb
@@ -67,7 +68,6 @@ AIML-Internship-Week5-UsmanAsif/
 ├── week5_best_model.pkl
 ├── decision_tree_analysis.png
 └── README.md
-
 ---
 
 ## 📋 Notebook Contents (18 Steps)
